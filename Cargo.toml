@@ -1,10 +1,10 @@
 [package]
 name = "rustdesk"
-version = "1.3.9.20250324"
-authors = ["Roger <info@163.com>"]
+version = "1.3.9"
+authors = ["Roger <info@163.com> 20250326"]
 edition = "2021"
 build= "build.rs"
-description = "LS Remote Desktop"
+description = "LS Remote Desktop v20250326"
 default-run = "rustdesk"
 rust-version = "1.75"
 
